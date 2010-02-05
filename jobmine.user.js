@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Jobmine Upgrade
+// @name           Jobmine Improved
 // @namespace      http://www.jamie-wong.com
 // @description    Makes jobmine more accessible
 // @require        http://code.jquery.com/jquery-1.4.1.min.js
